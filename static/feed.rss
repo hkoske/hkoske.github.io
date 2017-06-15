@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Hannah Koske</title><description>Thoughts, stories and ideas on software dev.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Thu, 15 Jun 2017 20:04:46 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>A diet for the mind</title><description><p>My first blog post. :)</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Hannah Koske</title><description>Thoughts, stories and ideas on software dev.</description><link>http://localhost:2368/</link><generator>Ghost 0.11</generator><lastBuildDate>Thu, 15 Jun 2017 20:22:01 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>A diet for the mind</title><description><p>My first blog post. :)</p>
 
 <p>I watched this inspiring video by a great golang programmer. He answered a question that he got in an email. I really liked a quote he mentioned, albeit somewhat incorrectly misreported. </p>
 
@@ -20,7 +20,7 @@
 <p>The actual quote was: </p>
 
 <blockquote>
-  <p>The soul is dyed the color of its thoughts. Think only on those things that are in line with your principles and can bear the light of day. The content of your character is your choice. Day by day, what you do is who you become. Your integrity is your destiny - it is the light that guides your way.</p>
+  <p>The soul is dyed the color of its thoughts. Think only on those things that are in line with your principles and can bear the light of day. The content of your character is your choice. Day by day, what you do is who you become. Your integrity is your destiny - it is the light that guides your way.     <strong>- Heraclitus</strong></p>
 </blockquote>
 
 <p>I liked the quote a lot. So I made this poster about it.</p>
